@@ -7,6 +7,26 @@ body
     padding: 0;
 }
 
+.header
+{
+    background-color: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 18px 18px 66px -19px rgba(10,10,10,1);
+    font-size: 30px;
+
+}
+
+.header .tagline
+{
+    font-weight: normal;
+    font-size: 0.8em;
+    
+
+}
+
 .container
 {
     width: 70%;
@@ -15,10 +35,16 @@ body
     border: 2px solid #dddddd;
     margin: 0 auto;
     font-size: 16px;
+    padding: 0;
 }
 
 .container h1
 {
     font-size: 20px;
+}
+
+.content
+{
+    padding: 2em 0.5em;
 }
 
