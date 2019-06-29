@@ -54,3 +54,11 @@ body
     padding: 2em 0.5em;
 }
 
+footer
+{
+    text-align: center;
+    background: #777;
+    color: white;
+    padding: 0.5em;
+}
+
